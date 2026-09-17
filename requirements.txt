@@ -1,0 +1,10 @@
+aiogram>=3.4
+SQLAlchemy[asyncio]>=2.0
+aiosqlite>=0.19
+pydantic>=2.5
+pydantic-settings>=2.1
+APScheduler>=3.10
+google-genai>=1.60
+httpx>=0.25
+Pillow>=10.0
+tzdata
